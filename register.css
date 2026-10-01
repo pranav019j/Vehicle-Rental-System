@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(218, 237, 247);
+    text-align: center;
+  }
+
+
+
+  .register{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 50px 50px 50px;
+    gap: 100px;
+  }
+
+  #register{
+    text-align: center;
+    border-radius: 20px;
+    border: rgb(91, 208, 238) double;
+    
+
+
+  }
